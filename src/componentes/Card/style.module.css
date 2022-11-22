@@ -1,0 +1,13 @@
+.card {
+    width: 100px;
+    rotate: 0deg;
+    transition: all 300ms ease;
+}
+
+.card:hover {
+    rotate: 3deg;
+}
+
+.card_title {
+    font-size: .7em;
+}

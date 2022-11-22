@@ -11,3 +11,5 @@ utilizar solo las 100 que llegan. Mostrar cada una de ellas en un div con su
 título, su descripción y su imágen si existen. Cuando el usuario pase el ratón
 por encima de una carta, hacer que rote ligeramente (buscar la propiedad css
 transform)
+
+#### Terminado
